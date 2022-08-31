@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>obproject</title>
+	<title>Ottawa Biochar Project</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Just another WordPress site</description>
+	<description>Converting wood waste to stable carbon</description>
 	<lastBuildDate>Tue, 30 Aug 2022 17:25:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
